@@ -1,1 +1,2 @@
-1-Primera l�nea en el fichero F1 para subir al repositorio ED1DAW-Practica1 de Github.
+1-Primera línea modificada en el fichero F1 para subir al repositorio ED1DAW-Practica1 de Github.
+2-Segunda línea en el fichero F1 creada en la rama ED1DAW-Practica1-2.
